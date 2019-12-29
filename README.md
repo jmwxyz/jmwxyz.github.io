@@ -11,13 +11,16 @@ Welcome to Jiaming WEN's Home Page!
   
   </p>
   <p>
-  My general interests cover algebra, number theory and cryptography. I will share some notes from books I read and my publications on this homepage in the future.
+  My general interests cover Mathematics and Cryptography, Machine Learning. I will share some notes from books I read and my publications on this homepage in the future.
   </p>
   <p>
   If you have any questions about contents on this website, do not hesitate to contact me via Email. My Email: wenjm [at] whu [dot] edu [dot] cn
   </p>
   
+ <h2><font face="Arial"> Notes </font></h2>
+ 
+ <br><br><br><br><br><br>
+ <h2><font face="Arial"> Publications </font></h2>   
 
-
-  <br><br><br><br><br>
+  <br><br><br><br><br><br><br>
           &copy; Jiaming Wen | Last updated: 12/29/2019

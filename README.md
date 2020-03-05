@@ -11,7 +11,7 @@ Welcome to Jiaming WEN's Home Page!
   
   </p>
   <p>
-  My general interests cover Machine Learning，Mathematics and Cryptography. I will share some notes from books or websites  on this page, and in most cases, I will give the orginal. The reason why I do it is that it's convenient for me to review.
+  My general interests cover Machine Learning，Mathematics and Cryptography. I will share some notes from books or websites  on this page, and in most cases, I will give the orginal. The reason why I do it is review and backup.
   </p>
   <p>
   If you have any questions about contents on this website, do not hesitate to contact me via Email. My Email: wenjm [at] whu [dot] edu [dot] cn
